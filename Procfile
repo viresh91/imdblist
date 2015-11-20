@@ -1,0 +1,1 @@
+web: gunicorn imdblist.wsgi --log-file -
